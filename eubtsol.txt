@@ -1,0 +1,15 @@
+((Buthus_mexicana,(Margaritifera_cavirostris,(Atrophaneura_vanellus,Ptyodactylus_boschas))),Scorpio_monedula);
+((Margaritifera_cavirostris,(Buthus_mexicana,(Atrophaneura_vanellus,Ptyodactylus_boschas))),Scorpio_monedula);
+((Atrophaneura_vanellus,((Buthus_mexicana,Margaritifera_cavirostris),Ptyodactylus_boschas)),Scorpio_monedula);
+(((Buthus_mexicana,Margaritifera_cavirostris),(Atrophaneura_vanellus,Ptyodactylus_boschas)),Scorpio_monedula);
+((Ptyodactylus_boschas,(Atrophaneura_vanellus,(Buthus_mexicana,Margaritifera_cavirostris))),Scorpio_monedula);
+((Atrophaneura_vanellus,(Margaritifera_cavirostris,(Buthus_mexicana,Ptyodactylus_boschas))),Scorpio_monedula);
+((Margaritifera_cavirostris,(Atrophaneura_vanellus,(Buthus_mexicana,Ptyodactylus_boschas))),Scorpio_monedula);
+((Buthus_mexicana,((Atrophaneura_vanellus,Margaritifera_cavirostris),Ptyodactylus_boschas)),Scorpio_monedula);
+(((Atrophaneura_vanellus,Margaritifera_cavirostris),(Buthus_mexicana,Ptyodactylus_boschas)),Scorpio_monedula);
+((Ptyodactylus_boschas,(Buthus_mexicana,(Atrophaneura_vanellus,Margaritifera_cavirostris))),Scorpio_monedula);
+((Atrophaneura_vanellus,(Buthus_mexicana,(Margaritifera_cavirostris,Ptyodactylus_boschas))),Scorpio_monedula);
+((Buthus_mexicana,(Atrophaneura_vanellus,(Margaritifera_cavirostris,Ptyodactylus_boschas))),Scorpio_monedula);
+((Margaritifera_cavirostris,((Atrophaneura_vanellus,Buthus_mexicana),Ptyodactylus_boschas)),Scorpio_monedula);
+(((Atrophaneura_vanellus,Buthus_mexicana),(Margaritifera_cavirostris,Ptyodactylus_boschas)),Scorpio_monedula);
+((Ptyodactylus_boschas,(Margaritifera_cavirostris,(Atrophaneura_vanellus,Buthus_mexicana))),Scorpio_monedula);
